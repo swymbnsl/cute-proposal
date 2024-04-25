@@ -66,3 +66,7 @@ h6 {
 #__next {
     isolation: isolate;
 }
+
+body {
+    background-color: #a2d2ff;
+}
